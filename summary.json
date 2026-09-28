@@ -1,0 +1,10 @@
+{
+  "common_tolerance": 0.0001,
+  "penalty_updates": 168122,
+  "alm_updates": 246,
+  "alm_outer_iterations": 9,
+  "update_ratio": 683.4227642276422,
+  "penalty_force_error_N": 0.050007496451676126,
+  "alm_force_error_N": 0.05080522599354431,
+  "all_checks_passed": true
+}
