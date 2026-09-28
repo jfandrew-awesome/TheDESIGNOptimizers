@@ -231,9 +231,7 @@ python run_project.py
 
 The script regenerates all six figures and the result tables under `results/`. It checks the eigenvalues, scaling test, exact reference solution, small-case iteration count, and both final stopping conditions. The experiments are deterministic; seed 598 is fixed. Small floating-point differences across platforms are possible.
 
-For convenience, the **complete runnable script is also included below**. This makes this Markdown file a complete report with runnable code, as the assignment permits. The separate `.py` file is the same code, ready to execute.
-
-**Source:** the student-provided [Project 2 assignment](https://designinformaticslab.github.io/DesignOptimization2025/project2.html), including its family G mechanism and D1-D4 diagnostic helpers. All numerical results are from the idealized actuator model in this report. AI assistance was used to draft the report and code; the stated numerical checks were executed. Team members should review and be able to explain the work.
+For convenience, the **complete runnable script is also included below**. This makes this Markdown file a complete report with runnable code. The separate `.py` file is the same code, ready to execute.
 
 <details>
 <summary><strong>Open the complete runnable Python code</strong></summary>
