@@ -1,6 +1,0 @@
-.venv/
-.jupyter/
-.ipynb_checkpoints/
-__pycache__/
-tmp/
-project2_actuator_load_sharing.zip
