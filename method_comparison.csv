@@ -1,0 +1,3 @@
+method,inner_kappa,primal_updates,gradient_evaluations,dual_updates,stationarity,feasibility,force_error_N
+Penalty GD,20001,168122,168123,0,9.999e-05,5.001e-05,0.05001
+Augmented Lagrangian + GD,3,246,255,9,7.268e-11,5.081e-05,0.05081
