@@ -1,0 +1,13 @@
+{
+  "mode": "oracle_warm_start",
+  "purpose": "Initialization control; not a practical remedy",
+  "changed_factor": "Initialization from same-seed supervised fit",
+  "unchanged": [
+    "architecture",
+    "training samples",
+    "physics objective",
+    "optimizer",
+    "iteration budget"
+  ],
+  "cost_note": "data_generation_seconds includes supervised training plus reference generation for this control."
+}

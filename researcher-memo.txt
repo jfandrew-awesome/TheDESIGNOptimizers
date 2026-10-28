@@ -1,0 +1,29 @@
+To: Dr. Jimmie Adriazola  
+From: Ashden and project team  
+Date: October 25, 2026  
+Subject: Results from our periodic NLS test
+
+We followed your suggestion and tested the periodic cubic nonlinear Schrodinger
+equation against a Fourier reference, using three random seeds.
+
+The default PINN's median error rose from about 0.09% at T=1 to
+110% at T=4. The same network fitted to reference data reached
+0.76% at T=4. Starting physics-only training from that fit gave
+43%. The same architecture fits the field much more accurately with
+supervision, so the way we train with physics matters in this test.
+
+Enforcing mass accurately did not keep the predicted wave accurate: large phase
+and profile errors remained. Larger penalties and more time samples also failed
+to give a reliable longer-time solution.
+
+For this single forward problem, we would keep the Fourier solver. It was fast
+and much more accurate. We have not shown a practical benefit from replacing
+it with the tested PINNs.
+
+Next, we would test shorter time windows, passing each window's final state
+to the next, and compare solution error, phase, and Hamiltonian drift at matched
+cost. We have not tested that remedy yet.
+
+We are confident in this comparison for our test case. The conclusion is
+limited to this initial condition, architecture, three seeds, and training
+budget.

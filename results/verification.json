@@ -1,0 +1,20 @@
+{
+  "plane_wave_max_abs_error": 2.3856277181424583e-13,
+  "input_derivative_max_errors": [
+    1.3477609028811344e-09,
+    3.270768056395923e-08,
+    1.4878348775226868e-07
+  ],
+  "directional_gradient_scaled_errors": {
+    "soft": 1.4135823220878733e-09,
+    "hard_ic": 1.198908827171717e-09,
+    "hard_mass": 6.795022322592104e-10,
+    "hard_ic_mass": 8.002724039002374e-10,
+    "supervised": 1.2568635021636965e-09
+  },
+  "hard_mass_max_relative_defect_on_anchor_grid": 2.220446049250313e-16,
+  "constrained_field_derivative_max_errors": [
+    2.1146707924317825e-09,
+    1.0747204523283325e-07
+  ]
+}

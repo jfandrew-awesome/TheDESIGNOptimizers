@@ -1,0 +1,26 @@
+{
+  "plane_wave": {
+    "amplitude": 1.2,
+    "wavenumber": 1,
+    "omega": 0.94,
+    "residual_coefficient": 0.0
+  },
+  "analytic_initial_mass": 6.408849013323178,
+  "analytic_initial_hamiltonian": -3.4576368745409263,
+  "run": "T4_seed0_soft_ic1_mass0",
+  "grid_point_count": 41216,
+  "global_error_squared_sum": 52631.69956454564,
+  "reference_squared_sum": 42040.320000004824,
+  "scalar_computed_relative_l2": 1.1188984973732348,
+  "logged_relative_l2": 1.118898497373234,
+  "pointwise": {
+    "t": 4.0,
+    "x": 3.141592653589793,
+    "predicted_real": -0.6396043249040494,
+    "predicted_imag": -0.23853015971296254,
+    "reference_real": -0.54824502626092,
+    "reference_imag": 0.5403285737126376,
+    "squared_absolute_error": 0.6149674480818946,
+    "absolute_error": 0.7841986024483177
+  }
+}

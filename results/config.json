@@ -1,0 +1,26 @@
+{
+  "horizons": [
+    1.0,
+    2.0,
+    4.0
+  ],
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "width": 24,
+  "iterations": 1500,
+  "collocation_nx": 32,
+  "time_samples_per_unit": 12,
+  "reference_nx": 256,
+  "reference_dt": 0.0005,
+  "snapshot_dt": 0.025,
+  "ic_amplitude": 0.2,
+  "ic_weights": [
+    1.0,
+    10.0,
+    100.0
+  ],
+  "notes": "Uniform x grid; fixed seeded time subsets; same init within each seed and horizon."
+}
