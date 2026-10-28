@@ -1,6 +1,6 @@
 # Project 3: periodic NLS - Path B diagnosis
 
-**Researcher:** Jimmie Adriazola, ASU. **Team:** Ashden; COMPLETE THE ROSTER.  
+**Researcher:** Jimmie Adriazola, ASU. **Team:** Ashden; Jack; Josh; Rob; Gabi.  
 **Numerical study:** October 20, 2026. **Path:** B; no Path C fix is claimed.
 
 The PINN's median error increases from 0.0896% at T=1 to
@@ -13,7 +13,7 @@ physics-only training setup. All 42 runs, code, and data are included.
 | Required item | Record |
 | --- | --- |
 | Researcher and format | Jimmie Adriazola; written response addressed to Ashden. No live meeting is claimed. |
-| Date and how found | COMPLETE: actual contact/response dates and original discovery method. |
+| Fri, Oct 9, Found through provided list of researchers | COMPLETE: actual contact/response dates and original discovery method. |
 | Outcome | He described his current research, concerns about PINNs, and a periodic NLS case to study. Add any other actual outreach attempts. |
 | Permission | He allowed named summaries or quotations, provided optimal control is identified as earlier work. |
 | Brief review and memo | Brief review is pending; memo has not been recorded as sent. Enter the actual send date and any later response. |
