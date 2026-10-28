@@ -13,10 +13,10 @@ physics-only training setup. All 42 runs, code, and data are included.
 | Required item | Record |
 | --- | --- |
 | Researcher and format | Jimmie Adriazola; written response addressed to Ashden. No live meeting is claimed. |
-| Fri, Oct 9, Found through provided list of researchers | COMPLETE: actual contact/response dates and original discovery method. |
-| Outcome | He described his current research, concerns about PINNs, and a periodic NLS case to study. Add any other actual outreach attempts. |
+| Date and how found | Contact: Oct 9th; Response: Oct 12th; Found through provided list |
+| Outcome | He described his current research, concerns about PINNs, and a periodic NLS case to study. |
 | Permission | He allowed named summaries or quotations, provided optimal control is identified as earlier work. |
-| Brief review and memo | Brief review is pending; memo has not been recorded as sent. Enter the actual send date and any later response. |
+| Brief review and memo | Brief review is pending; memo was sent Oct 27. No response yet. |
 
 ## 2. Problem brief
 
