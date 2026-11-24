@@ -1,0 +1,54 @@
+{
+  "initial_design": {
+    "radius_m": 0.05,
+    "H_m": 2.0,
+    "camber_m": 0.0
+  },
+  "n_nodes": 254,
+  "n_elements": 354,
+  "n_members": 177,
+  "lowest_frequency_hz": 4.778009213416635,
+  "frequencies_hz": [
+    4.778009213416635,
+    9.531065423935098,
+    10.2010828210752,
+    10.668552619052202,
+    15.050113684935779,
+    15.644295059520845,
+    15.996039148535594,
+    16.87116749521518,
+    19.595523102702728,
+    19.92506365511778
+  ],
+  "vibration_eigen_residual": 4.416154006621221e-12,
+  "buckling_load_factor": 21.607746474464292,
+  "buckling_load_factors": [
+    21.607746474464292,
+    21.79964551178109,
+    21.810470725763466,
+    21.837767980619383,
+    22.044618655772915,
+    22.08564459950435,
+    22.522526576660518,
+    22.69385382831299,
+    22.964485874564144,
+    23.622694847898448
+  ],
+  "buckling_eigen_residual": 4.708944516040332e-14,
+  "min_element_axial_force_N": -128964.43225039484,
+  "max_element_axial_force_N": 98259.22589642252,
+  "most_compressive_element_force_N": -128964.43225039484,
+  "most_tensile_element_force_N": 98259.22589642252,
+  "deck_mass_kg": 2825.999999999998,
+  "requirements": {
+    "R4_frequency_limit_hz": 3.0,
+    "R4_pass": true,
+    "R5_buckling_factor_limit": 3.0,
+    "R5_pass": true
+  },
+  "load_info": {
+    "pedestrian_pressure": 5000.0,
+    "deck_self_weight_pressure": 616.068,
+    "total_deck_pressure": 5616.068
+  }
+}
