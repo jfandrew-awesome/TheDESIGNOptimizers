@@ -1,0 +1,20 @@
+title: "PDE-Constrained Footbridge Optimization"
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+exclude:
+  - Project4
+  - src
+  - scripts
+  - verification
+  - requirements.txt
+  - README.md
+  - HIGH_LEVEL_REVIEW.md
+  - SUBMISSION_CHECKLIST.md
+  - MILESTONE2.md
+  - MILESTONE3.md
+  - MILESTONE4.md
+  - MILESTONE5.md
+  - MILESTONE6.md
+  - MILESTONE7.md
